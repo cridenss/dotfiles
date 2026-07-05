@@ -1,6 +1,9 @@
 # Dotfiles
 
 ## Installation
-cp .bashrc ~/.bashrc
-cp .gitconfig ~/.gitconfig
+| File | Command |
+|---|---|
+| .bashrc | cp .bashrc ~/.bashrc |
+| .gitconfig | cp .gitconfig ~/.gitconfig |
+
 source ~/.bashrc
