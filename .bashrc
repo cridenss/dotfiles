@@ -121,7 +121,6 @@ export PATH="$HOME/.local/bin:$PATH"
 alias ..='cd ..'
 alias ...='cd ../..'
 alias home='cd ~'
-alias docker='cd ~/docker'
 
 # Docker
 alias dps='docker ps --format "table {{pad .Names 5 5}}\t{{pad .Status 5 5}}\t{{truncate .Ports 50}}"'
